@@ -1,0 +1,34 @@
+﻿Der Buildvorgang wurde am 03.06.2016 09:19:55 gestartet.
+     1>Projekt "C:\Users\PC-MSchlitzer\Documents\Visual Studio 2013\Projects\UebungenfuersPraktikum\ConsoleApplication1\ConsoleApplication1.vcxproj" auf Knoten "2", Build Ziel(e).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Quelle.cpp
+         Quelle.cpp
+     1>c:\users\pc-mschlitzer\documents\visual studio 2013\projects\uebungenfuerspraktikum\consoleapplication1\quelle.cpp(2): error C2146: Syntaxfehler: Fehlendes ';' vor Bezeichner 'begin'
+     1>c:\users\pc-mschlitzer\documents\visual studio 2013\projects\uebungenfuerspraktikum\consoleapplication1\quelle.cpp(2): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+     1>c:\users\pc-mschlitzer\documents\visual studio 2013\projects\uebungenfuerspraktikum\consoleapplication1\quelle.cpp(3): error C2146: Syntaxfehler: Fehlendes ';' vor Bezeichner 'begin'
+     1>c:\users\pc-mschlitzer\documents\visual studio 2013\projects\uebungenfuerspraktikum\consoleapplication1\quelle.cpp(3): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+     1>c:\users\pc-mschlitzer\documents\visual studio 2013\projects\uebungenfuerspraktikum\consoleapplication1\quelle.cpp(3): error C2270: 'begin': Modifizierer für Funktionen, die keine Memberfunktionen sind, nicht zulässig
+     1>c:\users\pc-mschlitzer\documents\visual studio 2013\projects\uebungenfuerspraktikum\consoleapplication1\quelle.cpp(4): error C2143: Syntaxfehler: Es fehlt ';' vor '<'
+     1>c:\users\pc-mschlitzer\documents\visual studio 2013\projects\uebungenfuerspraktikum\consoleapplication1\quelle.cpp(4): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+     1>c:\users\pc-mschlitzer\documents\visual studio 2013\projects\uebungenfuerspraktikum\consoleapplication1\quelle.cpp(5): error C2146: Syntaxfehler: Fehlendes ';' vor Bezeichner 'str'
+     1>c:\users\pc-mschlitzer\documents\visual studio 2013\projects\uebungenfuerspraktikum\consoleapplication1\quelle.cpp(5): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+     1>c:\users\pc-mschlitzer\documents\visual studio 2013\projects\uebungenfuerspraktikum\consoleapplication1\quelle.cpp(7): error C2059: Syntaxfehler: 'while'
+     1>c:\users\pc-mschlitzer\documents\visual studio 2013\projects\uebungenfuerspraktikum\consoleapplication1\quelle.cpp(9): error C2143: Syntaxfehler: Es fehlt ';' vor '<'
+     1>c:\users\pc-mschlitzer\documents\visual studio 2013\projects\uebungenfuerspraktikum\consoleapplication1\quelle.cpp(9): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+     1>c:\users\pc-mschlitzer\documents\visual studio 2013\projects\uebungenfuerspraktikum\consoleapplication1\quelle.cpp(9): error C2086: 'int map': Neudefinition
+                 c:\users\pc-mschlitzer\documents\visual studio 2013\projects\uebungenfuerspraktikum\consoleapplication1\quelle.cpp(4): Siehe Deklaration von 'map'
+     1>c:\users\pc-mschlitzer\documents\visual studio 2013\projects\uebungenfuerspraktikum\consoleapplication1\quelle.cpp(10): error C2059: Syntaxfehler: 'for'
+     1>c:\users\pc-mschlitzer\documents\visual studio 2013\projects\uebungenfuerspraktikum\consoleapplication1\quelle.cpp(10): error C2143: Syntaxfehler: Es fehlt ')' vor ';'
+     1>c:\users\pc-mschlitzer\documents\visual studio 2013\projects\uebungenfuerspraktikum\consoleapplication1\quelle.cpp(10): error C2143: Syntaxfehler: Es fehlt ';' vor '!='
+     1>c:\users\pc-mschlitzer\documents\visual studio 2013\projects\uebungenfuerspraktikum\consoleapplication1\quelle.cpp(10): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+     1>c:\users\pc-mschlitzer\documents\visual studio 2013\projects\uebungenfuerspraktikum\consoleapplication1\quelle.cpp(10): error C2143: Syntaxfehler: Es fehlt ';' vor '++'
+     1>c:\users\pc-mschlitzer\documents\visual studio 2013\projects\uebungenfuerspraktikum\consoleapplication1\quelle.cpp(10): error C2086: 'int iter': Neudefinition
+                 c:\users\pc-mschlitzer\documents\visual studio 2013\projects\uebungenfuerspraktikum\consoleapplication1\quelle.cpp(10): Siehe Deklaration von 'iter'
+     1>c:\users\pc-mschlitzer\documents\visual studio 2013\projects\uebungenfuerspraktikum\consoleapplication1\quelle.cpp(10): error C2059: Syntaxfehler: ')'
+     1>c:\users\pc-mschlitzer\documents\visual studio 2013\projects\uebungenfuerspraktikum\consoleapplication1\quelle.cpp(10): error C2143: Syntaxfehler: Es fehlt ';' vor '{'
+     1>c:\users\pc-mschlitzer\documents\visual studio 2013\projects\uebungenfuerspraktikum\consoleapplication1\quelle.cpp(10): error C2447: '{': Funktionsheader fehlt - Parameterliste im alten Stil?
+     1>Die Erstellung des Projekts "C:\Users\PC-MSchlitzer\Documents\Visual Studio 2013\Projects\UebungenfuersPraktikum\ConsoleApplication1\ConsoleApplication1.vcxproj" ist abgeschlossen, Build Ziel(e) -- FEHLER.
+
+Fehler beim Buildvorgang.
+
+Verstrichene Zeit 00:00:00.78
